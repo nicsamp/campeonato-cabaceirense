@@ -1,0 +1,89 @@
+Participantes:
+São Paulo da Ribeira
+Independente
+Cruzeiro da Tapera
+Santa Cruz da Caiçarinha
+
+----------------------------------------------------
+Campeões:
+Titular: Santa Cruz
+Aspirante: ?
+
+----------------------------------------------------
+
+Modalidade Titular:
+Rodada 1
+Cruzeiro 0x1 São Paulo
+
+Rodada 2
+São Paulo 1x0 Independente (23/09)
+Santa Cruz 2x1 Cruzeiro (24/09)
+
+Rodada 3
+Cruzeiro 1x2 Independente (30/09)
+São Paulo 0x0 Santa Cruz (01/10)
+
+Rodada 4
+Independente 1x0 Cruzeiro (07/10) (estádio municipal)
+Santa Cruz 0x0 São Paulo (08/10)
+
+Rodada 1
+Independente 0x2 Santa Cruz (12/10) (estádio municipal)
+
+Rodada 5
+Independente 1x3 São Paulo (14/10) (estádio municipal)
+Cruzeiro 0x3 Santa Cruz (15/10)
+
+Rodada 6
+Santa Cruz 1x0 Independente (22/10)
+São Paulo 2x1 Cruzeiro (22/10)
+
+Tabela:
+Time         - P  - V - E - D - GP - GC - SG
+Santa Cruz   - 14 - 4 - 2 - 0 - 8  - 1  - 7 *Classificado para a final, primeiro jogo em casa
+São Paulo    - 14 - 4 - 2 - 0 - 7  - 2  - 5 *Classificado para a final
+Independente - 6  - 2 - 0 - 4 - 4  - 8  - -4
+Cruzeiro     - 0  - 0 - 0 - 6 - 3  - 11 - -8
+
+Final:
+Santa Cruz 0x1 São Paulo (29/10)
+São Paulo 0x1 Santa Cruz (6/11) (estádio municipal) (vitória nos pênaltis do Santa Cruz)
+
+------------------------------------------------------
+
+Modalidade Aspirante:
+Rodada 1
+Cruzeiro 0x0 São Paulo
+
+Rodada 2
+São Paulo 0x0 Independente (23/09)
+Santa Cruz 0x0 Cruzeiro (24/09)
+
+Rodada 3
+Cruzeiro 0x0 Independente (30/09)
+São Paulo 1x0 Santa Cruz (01/10)
+
+Rodada 4
+Independente 2x0 Cruzeiro (07/10) (estádio municipal)
+Santa Cruz 0x1 São Paulo (08/10)
+
+Rodada 1
+Independente 3x1 Santa Cruz (12/10) (estádio municipal)
+
+Rodada 5
+Independente 0x0 São Paulo (14/10) (estádio municipal)
+Cruzeiro 3x0 Santa Cruz (15/10)
+
+Rodada 6
+Santa Cruz 2x0 Independente (22/10)
+São Paulo 0x0 Cruzeiro (22/10)
+
+Tabela:
+Time         - P  - V - E - D - GP - GC - SG
+São Paulo    - 10 - 2 - 4 - 0 - 2  - 0  - 2 *Classificado para a final
+Independente - 9  - 2 - 3 - 1 - 5  - 3  - 2 *Classificado para a final
+Cruzeiro     - 7  - 1 - 4 - 1 - 3  - 2  - 1
+Santa Cruz   - 4  - 1 - 1 - 4 - 3  - 8  - -5
+
+Final
+São Paulo ?x? Independente (4/11) (estádio municipal)
