@@ -1,8 +1,8 @@
 Participantes:
-São Paulo da Ribeira
-Independente
-Cruzeiro da Tapera
-Santa Cruz da Caiçarinha
+São Paulo FCR, Ribeira
+Independente FC
+Cruzeiro FC, Tapera
+Santa Cruz FC, Caiçarinha
 
 ----------------------------------------------------
 
@@ -46,7 +46,7 @@ São Paulo    - 14 - 4 - 2 - 0 - 7  - 2  - 5 *Classificado para a final
 Independente - 6  - 2 - 0 - 4 - 4  - 8  - -4
 Cruzeiro     - 0  - 0 - 0 - 6 - 3  - 11 - -8
 
-Final:
+Final
 Santa Cruz 0x1 São Paulo (29/10)
 São Paulo 0x1 Santa Cruz (6/11) (estádio municipal) (vitória nos pênaltis do Santa Cruz)
 

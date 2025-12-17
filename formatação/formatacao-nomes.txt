@@ -1,0 +1,10 @@
+Na sua primeira ocorrência, o nome de um time será escrito da seguinte forma:
+[NOME DO TIME] de [NOME DO BAIRRO, SE CONHECIDO] (NOME COMUM, SE DIFERENTE DO NOME OFICIAL)
+Exemplos:
+São Paulo da Ribeira
+Clube Atlético Cabaceirense (C.A.C.)
+
+Depois disso, o time será referenciado apenas com seu nome comum sem o bairro, a não ser que o bairro seja necessário para desambiguação.
+Exemplos:
+São Paulo
+C.A.C.

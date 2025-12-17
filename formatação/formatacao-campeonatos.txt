@@ -1,0 +1,50 @@
+Participantes:
+[PARTICIPANTES]
+
+----------------------------------------------------
+
+Campeões:
+Titular: [CAMPEAO ou ?]
+Aspirante: [CAMPEAO ou ?]
+
+----------------------------------------------------
+
+Modalidade Titular:
+Rodada M
+[TIME] NxN [TIME] (DATA) (BAIRRO)
+[TIME] NxN [TIME] (DATA) (BAIRRO)
+
+Rodada N
+[TIME] NxN [TIME] (DATA) (BAIRRO)
+[TIME] NxN [TIME] (DATA) (BAIRRO)
+
+Tabela:
+Time         - P  - V - E - D - GP - GC - SG
+[TIME]       - NN - N - N - N - N  - N  - N
+[TIME]       - NN - N - N - N - N  - N  - N
+[TIME]       - NN - N - N - N - N  - N  - N
+
+Final
+[TIME] NxN [TIME] (DATA) (BAIRRO)
+[TIME] NxN [TIME] (DATA) (BAIRRO)
+
+------------------------------------------------------
+
+Modalidade Aspirante:
+Rodada M
+[TIME] NxN [TIME] (DATA) (BAIRRO)
+[TIME] NxN [TIME] (DATA) (BAIRRO)
+
+Rodada N
+[TIME] NxN [TIME] (DATA) (BAIRRO)
+[TIME] NxN [TIME] (DATA) (BAIRRO)
+
+Tabela:
+Time         - P  - V - E - D - GP - GC - SG
+[TIME]       - NN - N - N - N - N  - N  - N
+[TIME]       - NN - N - N - N - N  - N  - N
+[TIME]       - NN - N - N - N - N  - N  - N
+
+Final
+[TIME] NxN [TIME] (DATA) (BAIRRO)
+[TIME] NxN [TIME] (DATA) (BAIRRO)
